@@ -194,4 +194,3 @@ void loop(void) {
     digitalWrite(led, ledState);
   }
 }
-View raw code
